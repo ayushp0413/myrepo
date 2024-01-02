@@ -1,0 +1,7 @@
+1. Create Github A/C
+2. Create empty repository on github
+3. Local System - respo create aand Readme file (add, commit)
+    now this commit will be push on Remote repository
+4. remote command copy ....
+5. Setup user.name and user.email
+6. git push -u origin master
