@@ -5,3 +5,5 @@
 4. remote command copy ....
 5. Setup user.name and user.email
 6. git push -u origin master
+
+branch changes
